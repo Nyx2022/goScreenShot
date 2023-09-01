@@ -7,7 +7,6 @@
 It captures a screenshot of the screen or a specific rectangular area of the screen using the Windows API. The CaptureScreen function captures the entire screen, while the CaptureRect function captures a specific rectangular area. The code uses various Windows API functions such as GetDC, CreateCompatibleDC, CreateDIBSection, and BitBlt to capture the screenshot and store it in an image.RGBA value. You're able to capture a screenshot of the whole Desktop with this program.
 
 # Example of usage:
-=======
 
 * sample program `main.go`
 ```
