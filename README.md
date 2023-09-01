@@ -5,6 +5,14 @@ It captures a screenshot of the screen or a specific rectangular area of the scr
 # Example of usage:
 
 ```
+package main
+
+import (
+	"fmt"
+	"image/png"
+	"os"
+)
+
 func main() {
 	img, err := CaptureScreen()
 	if err != nil {
@@ -26,6 +34,7 @@ func main() {
 		return
 	}
 }
+
 ```
 
 ### End
