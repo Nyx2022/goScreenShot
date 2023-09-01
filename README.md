@@ -8,8 +8,7 @@ It captures a screenshot of the screen or a specific rectangular area of the scr
 
 # Example of usage:
 
-* sample program `main.go`
-```
+```go
 package main
 
 import (
@@ -45,8 +44,3 @@ func main() {
 ### End
 
 If you encounter any issues or have suggestions, please open an issue on GitHub or contact me on Twitter at @n1k7l4i. Your feedback helps improve this project.
-
-license
-=======
-
-MIT Licence
